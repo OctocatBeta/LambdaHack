@@ -4,7 +4,7 @@ name: Haskell CI
 
 on:
   schedule:
-    cron: '55 * * * *'
+    -cron: '55 * * * *'
   push:
     branches: [ master ]
   pull_request:
