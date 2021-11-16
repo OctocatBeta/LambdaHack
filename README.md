@@ -1,4 +1,4 @@
-LambdaHack
+LambdaHacks
 ==========
 
 [![Hackage](https://img.shields.io/hackage/v/LambdaHack.svg)](https://hackage.haskell.org/package/LambdaHack)
